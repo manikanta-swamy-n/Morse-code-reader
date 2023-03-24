@@ -17,7 +17,7 @@
 
 Application look
 
-![application](/workspaces/81160682/project/app.png)
+![application](app.png)
 
 the applicationa apk file can be found in the file path:
 ##### umptydah\app\release\app-release.apk
