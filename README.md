@@ -22,7 +22,7 @@ Application look
 the applicationa apk file can be found in the file path:
 ##### umptydah\app\release\app-release.apk
 
-or you can click on <app-release.apk>
+or you can click on [umpty dah](app-release.apk) for apkfile.
 
 for designing my app logo i used [inkscape.](https://inkscape.org/)
 
