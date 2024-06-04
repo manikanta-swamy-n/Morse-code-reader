@@ -22,6 +22,8 @@ Application look
 the applicationa apk file can be found in the file path:
 ##### umptydah\app\release\app-release.apk
 
+or you can click on (app-release.apk)
+
 for designing my app logo i used [inkscape.](https://inkscape.org/)
 
 and for colorgrading my app i used an opensource software called[Rickrack.](https://eigenmiao.com/rickrack/)
